@@ -18,7 +18,7 @@ import javax.sql.DataSource;
 import java.util.HashMap;
 import java.util.Map;
 
-@Component
+// @Component
 public class DataSourceItemReaderDemo {
 
     @Autowired
