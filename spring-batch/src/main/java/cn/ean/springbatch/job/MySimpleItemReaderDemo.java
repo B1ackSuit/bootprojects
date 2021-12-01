@@ -18,7 +18,7 @@ import java.util.List;
  * @FileName MySimpleItemReaderDemo
  * @Date 2021/11/30 4:43 下午
  **/
-@Component
+// @Component
 public class MySimpleItemReaderDemo {
 
     @Autowired

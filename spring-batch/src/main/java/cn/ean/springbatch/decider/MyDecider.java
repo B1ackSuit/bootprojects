@@ -14,7 +14,7 @@ import java.time.LocalDate;
  * @FileName Mydecider
  * @Date 2021/11/30 4:18 下午
  **/
-@Component
+// @Component
 public class MyDecider implements JobExecutionDecider {
     @Override
     public FlowExecutionStatus decide(JobExecution jobExecution, StepExecution stepExecution) {

@@ -15,7 +15,7 @@ import org.springframework.stereotype.Component;
  * @FileName MultiStepJobDemo
  * @Date 2021/11/30 4:02 下午
  **/
-@Component
+// @Component
 public class MultiStepJobDemo {
 
     @Autowired

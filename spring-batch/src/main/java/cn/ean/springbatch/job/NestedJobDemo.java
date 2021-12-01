@@ -20,7 +20,7 @@ import org.springframework.transaction.PlatformTransactionManager;
  * @Date 2021/11/30 4:28 下午
  **/
 
-@Component
+// @Component
 public class NestedJobDemo {
 
     @Autowired

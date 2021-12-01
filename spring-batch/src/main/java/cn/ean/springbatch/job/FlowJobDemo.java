@@ -16,7 +16,7 @@ import org.springframework.stereotype.Component;
  * @FileName FlowJobDemo
  * @Date 2021/11/30 4:06 下午
  **/
-@Component
+// @Component
 public class FlowJobDemo {
 
     @Autowired

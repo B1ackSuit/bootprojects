@@ -18,7 +18,7 @@ import org.springframework.stereotype.Component;
  * @Date 2021/11/30 4:10 下午
  **/
 
-@Component
+// @Component
 public class SplitJobDemo {
 
     @Autowired
