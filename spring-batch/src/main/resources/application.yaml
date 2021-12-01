@@ -6,3 +6,7 @@ spring:
     url: jdbc:mysql://127.0.0.1:3310/springbatch?serverTimezone=Asia/Shanghai&useSSL=true
     username: root
     password: root
+
+  batch:
+    job:
+      enabled: false
